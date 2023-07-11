@@ -1,0 +1,15 @@
+{
+    "en": {
+      "welcomeMessage": "Hello, I'm Thami, a passionate and dedicated professional in software engineering. With 8 years of experience, I specialize in Java programming and Search Engines.",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "fr": {
+      "welcomeMessage": "Bienvenue sur mon site web !",
+      "about": "À propos",
+      "services": "Services",
+      "contact": "Contact"
+    }
+  }
+  
